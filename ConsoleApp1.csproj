@@ -9,10 +9,14 @@
 
   <ItemGroup>
     <Compile Remove="ARREGLOS\Arreglos.cs" />
+    <Compile Remove="ARREGLOS\Diccionario.cs" />
+    <Compile Remove="ARREGLOS\Pilas.cs" />
   </ItemGroup>
 
   <ItemGroup>
     <None Include="ARREGLOS\Arreglos.cs" />
+    <None Include="ARREGLOS\Diccionario.cs" />
+    <None Include="ARREGLOS\Pilas.cs" />
   </ItemGroup>
 
 </Project>
